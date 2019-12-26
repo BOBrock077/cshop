@@ -1,0 +1,44 @@
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\bin\Debug\getdata.mdf
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\bin\Debug\getdata_log.ldf
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\bin\Debug\modbusSQL.exe.config
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\bin\Debug\modbusSQL.exe
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\bin\Debug\modbusSQL.pdb
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\Debug\modbusSQL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\Debug\modbusSQL.Form1.resources
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\Debug\modbusSQL.Properties.Resources.resources
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\Debug\modbusSQL.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\Debug\modbusSQL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\Debug\modbusSQL.exe
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\Debug\modbusSQL.pdb
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\Debug\modbusSQL.command.resources
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\Debug\modbusSQL.Form2.resources
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\bin\Debug\getdata.mdf
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\bin\Debug\getdata_log.ldf
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\bin\Debug\modbusSQL.exe.config
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\bin\Debug\modbusSQL.exe
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\bin\Debug\modbusSQL.pdb
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.command.resources
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.Form1.resources
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.Form2.resources
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.Properties.Resources.resources
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.exe
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.pdb
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.history.resources
+C:\Users\User\Desktop\c#\1218 mobus 單通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\bin\Debug\getdata.mdf
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\bin\Debug\getdata_log.ldf
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\bin\Debug\modbusSQL.exe.config
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\bin\Debug\modbusSQL.exe
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\bin\Debug\modbusSQL.pdb
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.command.resources
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.Form1.resources
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.Form2.resources
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.history.resources
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.Properties.Resources.resources
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.exe
+C:\Users\User\Desktop\c#\1218 mobus 雙通道\modbusSQL\modbusSQL\obj\Debug\modbusSQL.pdb

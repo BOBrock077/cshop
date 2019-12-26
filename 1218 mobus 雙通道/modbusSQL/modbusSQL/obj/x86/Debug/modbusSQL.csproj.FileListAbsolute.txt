@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\bin\x86\Debug\getdata.mdf
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\bin\x86\Debug\getdata_log.ldf
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\bin\x86\Debug\modbusSQL.exe.config
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\bin\x86\Debug\modbusSQL.exe
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\bin\x86\Debug\modbusSQL.pdb
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\x86\Debug\modbusSQL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\x86\Debug\modbusSQL.command.resources
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\x86\Debug\modbusSQL.Form1.resources
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\x86\Debug\modbusSQL.Form2.resources
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\x86\Debug\modbusSQL.Properties.Resources.resources
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\x86\Debug\modbusSQL.csproj.GenerateResource.cache
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\x86\Debug\modbusSQL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\x86\Debug\modbusSQL.exe
+C:\Users\User\Desktop\c#\modbusSQL\modbusSQL\obj\x86\Debug\modbusSQL.pdb
